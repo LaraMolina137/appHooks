@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/appHooks/static/css/main.07db6332.chunk.css",
+    "main.js": "/appHooks/static/js/main.c57da9c9.chunk.js",
+    "main.js.map": "/appHooks/static/js/main.c57da9c9.chunk.js.map",
+    "runtime-main.js": "/appHooks/static/js/runtime-main.67bfefb4.js",
+    "runtime-main.js.map": "/appHooks/static/js/runtime-main.67bfefb4.js.map",
+    "static/js/2.7861edfe.chunk.js": "/appHooks/static/js/2.7861edfe.chunk.js",
+    "static/js/2.7861edfe.chunk.js.map": "/appHooks/static/js/2.7861edfe.chunk.js.map",
+    "index.html": "/appHooks/index.html",
+    "static/css/main.07db6332.chunk.css.map": "/appHooks/static/css/main.07db6332.chunk.css.map",
+    "static/js/2.7861edfe.chunk.js.LICENSE.txt": "/appHooks/static/js/2.7861edfe.chunk.js.LICENSE.txt",
+    "static/media/bulma.5eadcb97.png": "/appHooks/static/media/bulma.5eadcb97.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67bfefb4.js",
+    "static/js/2.7861edfe.chunk.js",
+    "static/css/main.07db6332.chunk.css",
+    "static/js/main.c57da9c9.chunk.js"
+  ]
+}
